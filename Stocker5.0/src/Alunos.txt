@@ -1,0 +1,7 @@
+Matrícula; Nome; Nota1; Nota2
+200001; Júlio; 10; 10
+200002; Alessandro; 5; 6
+200003; J�o; 6; 3
+200004; Alien; 2; 9
+200005; Sam; 10; 10
+200006; Greg; 8; 8
